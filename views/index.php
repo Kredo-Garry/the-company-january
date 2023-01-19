@@ -25,7 +25,9 @@
                         <button type="submit" class="form-control btn btn-primary text-white">Login</button>
                     </form>
 
-                    <p class="text-muted text-center mt-3 small"> <a href="register.php">Create Account</a> </p>
+                    <p class="text-muted text-center mt-3 small"> <a href="register.php">Create Account</a></p>
+                    <!-- Make some changes -->
+                    <p class="text-center text-muted mt-2 small">Copyright @ Kredo 2022</p>
                 </div>
             </div>
         </div>
